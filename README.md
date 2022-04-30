@@ -31,3 +31,9 @@ These days, the best way to use social media is as a source of traffic for your 
 ## ➕ Plus 
 
 - GitHub API Consumption
+
+<br>
+
+## 📄 License
+
+MIT License © [Vinicius Cardoso](https://github.com/caard0s0)
