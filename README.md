@@ -3,10 +3,14 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033" alt="License">
+    <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=404040&labelColor=000000" alt="License">
 </p>
 
 <br>
+
+<p align="center">
+  <img alt="linkTree image" src=".github/linkTree.png" width="450rem">
+</p>
 
 ## 💡 Why?
 
